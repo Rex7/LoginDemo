@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="title_text">Welcome To Login</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="LoginButton">Login</string>
+    <string name="RegisterButton">Register</string>
+    <string name="hint_username">UserName</string>
+    <string name="ForgotPassword">Forgot password?</string>
+    <string name="title_activity_register">Register</string>
+</resources>
